@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Calibri, sans-serifs;
+}
+
+html {
+  background-color: #f3f3f3;
+  
+}
+a.btn {
+  display: inline-block;
+  background-color: #3498db;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a.btn:hover {
+  background-color: #2980b9;
+  cursor: pointer;
+}
+
+
+
+
+#refresh-captcha:hover{
+  cursor: pointer;
+}
